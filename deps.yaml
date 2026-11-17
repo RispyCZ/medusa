@@ -1,0 +1,18 @@
+packages:
+  - name: github.com/hashicorp/vault/api
+    version: latest
+
+  - name: github.com/hashicorp/vault/api/auth/kubernetes
+    version: latest
+
+  - name: github.com/manifoldco/promptui
+    version: latest
+
+  - name: github.com/spf13/cobra
+    version: latest
+
+  - name: github.com/spf13/viper
+    version: latest
+
+  - name: gopkg.in/yaml.v2
+    version: latest
